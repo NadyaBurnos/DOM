@@ -1,5 +1,5 @@
 {
-  "name": "ahj_dom",
+  "name": "DOM",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,13 +13,13 @@
     "preshow:dist": "npm run build",
     "show:dist": "http-server dist"
   },
-  "repository": "git+https://github.com/NadyaBurnos/ahj_dom.git",
+  "repository": "git+https://github.com/NadyaBurnos/DOM.git",
   "author": "nadyaburnos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NadyaBurnos/ahj_dom/issues"
+    "url": "https://github.com/NadyaBurnos/DOM/issues"
   },
-  "homepage": "https://github.com/NadyaBurnos/ahj_dom#readme",
+  "homepage": "https://github.com/NadyaBurnos/DOM#readme",
   "keywords": [],
   "description": "",
   "devDependencies": {
